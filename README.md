@@ -265,6 +265,7 @@ https://agencyelectronics.com/th/products/759449-capacitors-10uf-16v-85c-nichico
 ![image](https://github.com/user-attachments/assets/bc0e3bb4-c2cd-4dc7-9d50-fffa85099661)
  
 รูปที่ 3.32 ตัวเก็บประจุ 100nF
+
 3.3.18 Connector ของตัว XT60PWE
     https://easyeda.com/component/08b3e4729ccc4fad9d7bfc4320d8b41 
     (1) คลิก Device Standardlzation
@@ -275,7 +276,6 @@ https://agencyelectronics.com/th/products/759449-capacitors-10uf-16v-85c-nichico
  ![image](https://github.com/user-attachments/assets/c2453e4c-faf0-4e32-98fa-6c5763cf64a8)
 
 รูปที่ 3.33 XT60PWE
-
 
 3.3.19 Diode ของตัว 1N4007
 https://www.lcsc.com/product-detail/Diodes---General-Purpose_-DIOTEC--1N4007_C212822.html
