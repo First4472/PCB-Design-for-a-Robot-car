@@ -276,6 +276,7 @@ https://agencyelectronics.com/th/products/759449-capacitors-10uf-16v-85c-nichico
 
 รูปที่ 3.33 XT60PWE
 
+
 3.3.19 Diode ของตัว 1N4007
 https://www.lcsc.com/product-detail/Diodes---General-Purpose_-DIOTEC--1N4007_C212822.html
     (1) คลิก Device Standardlzation
